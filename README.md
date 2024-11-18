@@ -12,7 +12,7 @@ _Light Theme_
 
 ## Live Site
 
-Check out the live site []().
+Check out the live site [https://country-explorer-murex.vercel.app/]
 
 ## Features
 
